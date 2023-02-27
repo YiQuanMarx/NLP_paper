@@ -4,7 +4,7 @@ This is a repo listing some already-read papers on Natural-Language-Progressing 
 
 **Exploiting Global and Local Hierarchies for Hierarchical Text Classification**[[paper](https://arxiv.org/abs/2205.02613)][[code](https://github.com/kongds/hbgl)]
 
-**A Contrastive Framework for Learning Sentence Representations from Pairwise and Triple-wise Perspective in Angular Space**(ACL 2022)[[paper]()]
+**A Contrastive Framework for Learning Sentence Representations from Pairwise and Triple-wise Perspective in Angular Space**(ACL 2022)[[paper](https://paperswithcode.com/paper/a-contrastive-framework-for-learning-sentence)]
 
 
 
