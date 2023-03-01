@@ -6,6 +6,8 @@ This is a repo listing some already-read papers on Natural-Language-Progressing 
 
 **Unsupervised Entity Alignment for Temporal Knowledge Graphs**[[paper](https://arxiv.org/abs/2302.00796)][[code](https://github.com/zju-daily/dualmatch)][[slide]()]
 
+**EventEA: Benchmarking Entity Alignment for Event-centric Knowledge Graphs**[[paper](https://arxiv.org/abs/2211.02817)][[code](https://github.com/nju-websoft/eventea)][[slide]()]
+
 **Feb 2023**
 
 **Exploiting Global and Local Hierarchies for Hierarchical Text Classification**[[paper](https://arxiv.org/abs/2205.02613)][[code](https://github.com/kongds/hbgl)][[slide](https://github.com/YiQuanMarx/NLP_paper/blob/main/slide/Exploiting%20Global%20and%20Local%20Hierarchies%20for%20Hierarchical%20Text%20Classification/Exploiting%20Global%20and%20Local%20Hierarchies%20for%20Hierarchical%20Text%20Classification.md)]
