@@ -6,7 +6,7 @@ This is a repo listing some already-read papers on Natural-Language-Progressing 
 
 **Unsupervised Entity Alignment for Temporal Knowledge Graphs**[[paper](https://arxiv.org/abs/2302.00796)][[code](https://github.com/zju-daily/dualmatch)][[slide](https://github.com/YiQuanMarx/NLP_paper/blob/main/slide/Unsupervised%20Entity%20Alignment%20for%20Temporal%20Knowledge%20Graphs/Unsupervised%20Entity%20Alignment%20for%20Temporal%20Knowledge%20Graphs.md)]
 
-**EventEA: Benchmarking Entity Alignment for Event-centric Knowledge Graphs**[[paper](https://arxiv.org/abs/2211.02817)][[code](https://github.com/nju-websoft/eventea)][[slide]()]
+**EventEA: Benchmarking Entity Alignment for Event-centric Knowledge Graphs**[[paper](https://arxiv.org/abs/2211.02817)][[code](https://github.com/nju-websoft/eventea)]
 
 **Feb 2023**
 
