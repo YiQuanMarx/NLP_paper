@@ -18,7 +18,7 @@ This is a repo listing some already-read papers on Natural-Language-Progressing 
 
 **Jan 2023**
 
-**RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering**[[paper](https://arxiv.org/abs/2109.08678)][[code](https://github.com/salesforce/rng-kbqa)][[slide]()]
+**RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering**[[paper](https://arxiv.org/abs/2109.08678)][[code](https://github.com/salesforce/rng-kbqa)][[slide](https://github.com/YiQuanMarx/NLP_paper/blob/main/slide/RNG-KBQA%20Generation%20Augmented%20Iterative%20Ranking%20for%20Knowledge%20Base%20Question%20Answering/RNG-KBQA%20Generation%20Augmented%20Iterative%20Ranking%20for%20Knowledge%20Base%20Question%20Answering.md)]
 
 
 
