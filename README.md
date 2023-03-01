@@ -16,6 +16,10 @@ This is a repo listing some already-read papers on Natural-Language-Progressing 
 
 **Unsupervised Multi-source Domain Adaptation Without Access to Source Data**[[paper](https://arxiv.org/abs/2104.01845)][[code](https://github.com/driptaRC/DECISION)]
 
+**Jan 2023**
+
+**RNG-KBQA: Generation Augmented Iterative Ranking for Knowledge Base Question Answering**[[paper](https://arxiv.org/abs/2109.08678)][[code](https://github.com/salesforce/rng-kbqa)][[slide]()]
+
 
 
 
